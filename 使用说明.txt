@@ -1,0 +1,5 @@
+拖文件/文件夹到 Shredder.exe 上   直接粉碎
+Shredder.exe 路径...              FAST 模式
+Shredder.exe -d 路径              深度覆写
+Shredder.exe -sys 路径            以 SYSTEM 身份执行（最强）
+Shredder.exe -nk 路径             不夺取权限
